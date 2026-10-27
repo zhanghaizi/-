@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Conda 环境
+.conda/
+
+# 系统文件
+Thumbs.db
+.DS_Store

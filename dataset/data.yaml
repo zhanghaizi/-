@@ -1,0 +1,12 @@
+train:  D:/Desktop/battery-cv/dataset/images/train
+val: D:/Desktop/battery-cv/dataset/images/val
+
+nc: 6
+names: ['lidianchi', 'lidianchi-gubao', 'pingzi', 'qiansuanxudianchi', 'qiansuanxudianchi-gubao', 'qiansuanxudianchi-louye']
+
+roboflow:
+  workspace: shangqis-workspace-cljs3
+  project: -jsgc2
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/shangqis-workspace-cljs3/-jsgc2/1
